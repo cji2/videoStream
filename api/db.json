@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great stream!",
+      "id": 0
+    },
+    {
+      "title": "A Stream",
+      "description": "This is an excellent stream!",
+      "id": 1
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "Now, StreamEdit component is calling action creator, editStream!!!",
+      "id": 2
+    },
+    {
+      "title": "Stream for Testing",
+      "description": "When we update reducer, we could fix bugs.",
+      "userId": "114987618933858373718",
+      "id": 3
+    }
+  ]
+}
